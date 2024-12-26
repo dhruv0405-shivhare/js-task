@@ -1,0 +1,188 @@
+{
+  "ProductsData": [
+    {
+      "id": "1",
+      "name": "GTA III",
+      "price": 1500,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.oDWLOOFfA8k5Rf1jJl-3RgHaEK&pid=Api&P=0&h=220",
+      "category": "dolls"
+    },
+    {
+      "id": "2",
+      "name": "Spider Man ",
+      "price": 2000,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.tJC9H_-17HAfodvn2kj2dQHaEK&pid=Api&P=0&h=220",
+      "category": "cars"
+    },
+    {
+      "id": "3",
+      "name": "DOTA 2",
+      "price": 1300,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.WTN_wPaV1lihyzRb25HM9gEsC7&pid=Api&P=0&h=220",
+      "category": "dolls"
+    },
+    {
+      "id": "4",
+      "name": "ASSASSIN CREED",
+      "price": 2200,
+      "image": "https://images.freecreatives.com/wp-content/uploads/2015/04/Video-Game-Desktop-Backgrounds-2.jpg",
+      "category": "actionFigures"
+    },
+    {
+      "id": "5",
+      "name": "COUNTER STRIKE",
+      "price": 1000,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.DLkjYPKEqu0CLU20Eqiu0QHaEK&pid=Api&P=0&h=220",
+      "category": "stuffedAnimals"
+    },
+    {
+      "id": "6",
+      "name": "PUBG",
+      "price": 300,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.nC6MAoeTU1iv64hPENRbvgHaEK&pid=Api&P=0&h=220",
+      "category": "cars"
+    },
+    {
+      "id": "7",
+      "name": "TAKKEN 7",
+      "price": 1500,
+      "image": "https://www.trueachievements.com/customimages/065911.jpg",
+      "category": "dolls"
+    },
+    {
+      "id": "8",
+      "name": "GOD OF WAR",
+      "price": 900,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.KLFpRlc7qrcRxIK2fa7YXwHaHa&pid=Api&P=0&h=220",
+      "category": "dolls"
+    },
+    {
+      "id": "9",
+      "name": "MOTAL KOMBAT",
+      "price": 1700,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.g4afZlcix4KS9iKUOdZt1AHaEK&pid=Api&P=0&h=220",
+      "category": "dolls"
+    },
+    {
+      "id": "10",
+      "name": "DEADPOOL",
+      "price": 2500,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.DELqK3q2tkG6m98-nKiljwHaHa&pid=Api&P=0&h=220",
+      "category": "actionFigures"
+    },
+    {
+      "id": "11",
+      "name": "IRON MAN",
+      "price": 2500,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.FHjNTb7E3sxmJwvSSh1uvQHaEK&pid=Api&P=0&h=220",
+      "category": "actionFigures"
+    },
+    {
+      "id": "12",
+      "name": "PRINCE OF PERSIA",
+      "price": 2400,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.isW5SOVLmA3p8H2igM7c0QHaEK&pid=Api&P=0&h=220",
+      "category": "actionFigures"
+    },
+    {
+      "id": "13",
+      "name": "THE WITCHER",
+      "price": 1500,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.5zFQdW-DXYYC2Rl3xbpZVgHaDz&pid=Api&P=0&h=220",
+      "category": "stuffedAnimals"
+    },
+    {
+      "id": "14",
+      "name": "CALL OF DUTY",
+      "price": 1000,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.UuYvSbCAsHqoExa4zQy9QQHaJJ&pid=Api&P=0&h=220",
+      "category": "stuffedAnimals"
+    },
+    {
+      "id": "15",
+      "name": "GTA 5",
+      "price": 4000,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.SK0-4n0raYdBR4AjbBElowHaEK&pid=Api&P=0&h=220",
+      "category": "cars"
+    },
+    {
+      "id": "16",
+      "name": "JUST CAUSE 3",
+      "price": 1800,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.ngOItq6k53in85gq4wAgWgHaEc&pid=Api&P=0&h=220",
+      "category": "cars"
+    },
+    {
+      "id": "17",
+      "name": "W 2K16",
+      "price": 1900,
+      "image": "https://tse1.mm.bing.net/th?id=OIF.q2a7snTromwzB5SilTzJcw&pid=Api&P=0&h=220",
+      "category": "stuffedAnimals"
+    },
+    {
+      "id": "18",
+      "name": "NEED FOR SPEED",
+      "price": 450,
+      "image": "https://tse3.mm.bing.net/th?id=OIF.x%2bC4ckzvv%2bdbM2Z8IFIdsg&pid=Api&P=0&h=220",
+      "category": "stuffedAnimals"
+    },
+    {
+      "id": "19",
+      "name": "CRICKET 19",
+      "price": 2000,
+      "image": "https://tse1.mm.bing.net/th?id=OIF.NEGe3qNivY6Il0EOwvE0YA&pid=Api&P=0&h=220",
+      "category": "actionFigures"
+    },
+    {
+      "id": "20",
+      "name": "DEATHRACE",
+      "price": 3500,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.biexfwP3ZDk5S__JmG__YQHaEK&pid=Api&P=0&h=220",
+      "category": "cars"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "2",
+      "name": "Spider Man ",
+      "price": 2000,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.tJC9H_-17HAfodvn2kj2dQHaEK&pid=Api&P=0&h=220",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "DOTA 2",
+      "price": 1300,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.WTN_wPaV1lihyzRb25HM9gEsC7&pid=Api&P=0&h=220",
+      "quantity": 1
+    },
+    {
+      "id": "1",
+      "name": "GTA III",
+      "price": 1500,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.oDWLOOFfA8k5Rf1jJl-3RgHaEK&pid=Api&P=0&h=220",
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "name": "ASSASSIN CREED",
+      "price": 2200,
+      "image": "https://images.freecreatives.com/wp-content/uploads/2015/04/Video-Game-Desktop-Backgrounds-2.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "name": "PUBG",
+      "price": 300,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.nC6MAoeTU1iv64hPENRbvgHaEK&pid=Api&P=0&h=220",
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "name": "TAKKEN 7",
+      "price": 1500,
+      "image": "https://www.trueachievements.com/customimages/065911.jpg",
+      "quantity": 1
+    }
+  ]
+}
